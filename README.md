@@ -4,7 +4,7 @@
 Soy un estudiante tecnico informatico que esta por egresarse, tengo conocimientos full stack, aplicaciones moviles y desarrollo en software 👌.
 
 ## Lenguajes y Herramientas de Programacion 🛠️
-
+<p aling="center"> 
 <strong>Front End<strong/>
 <br><br/>   
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
@@ -36,3 +36,4 @@ Soy un estudiante tecnico informatico que esta por egresarse, tengo conocimiento
 <strong>Herramientas<strong/>
 <br><br/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
+</p>

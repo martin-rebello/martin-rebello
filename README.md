@@ -31,5 +31,5 @@ Soy un estudiante tecnico informatico que esta por egresarse, tengo conocimiento
 <br><br/>    
 <strong>Herramientas<strong/>
 <br><br/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </p>

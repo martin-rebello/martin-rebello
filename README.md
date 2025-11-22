@@ -1,7 +1,7 @@
 # Hola Mundo, Soy Martin Rebello 🤖
 
 ## Sobre mi
-Soy un estudiante tecnico informatico que esta por egresarse, tengo conocimientos full stack, aplicaciones moviles y desarrollo en software 👌.
+Egresado de la carrera Tecnica en Computacion e Informatica, tengo conocimientos full stack, aplicaciones moviles y desarrollo en software 👌.
 
 ## Lenguajes y Herramientas de Programacion 🛠️
 <p aling="center"> 

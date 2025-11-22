@@ -1,7 +1,7 @@
 # Hola Mundo, Soy Martin Rebello 🤖
 
 ## Sobre mi
-Egresado de la carrera Tecnica en Computacion e Informatica, tengo conocimientos full stack, aplicaciones moviles y desarrollo en software 👌.
+Egresado de la carrera TNS en Computacion e Informatica del CFT PUCV, tengo conocimientos de full stack, aplicaciones moviles y desarrollo en software 👌.
 
 ## Lenguajes y Herramientas de Programacion 🛠️
 <p aling="center"> 
